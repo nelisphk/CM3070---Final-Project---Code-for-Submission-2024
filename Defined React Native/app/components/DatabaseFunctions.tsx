@@ -6,13 +6,13 @@ import ResultsCalculator from '../components/ResultsCalculator';
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAdERRxlu-sn9N8PHDKd-LSIzBhCmq0FJM",
-  authDomain: "defined-f7c68.firebaseapp.com",
-  projectId: "defined-f7c68",
-  storageBucket: "defined-f7c68.firebasestorage.app",
-  messagingSenderId: "724576820049",
-  appId: "1:724576820049:web:c652c4a6a9a3db4db45170",
-  measurementId: "G-22TQZPTT55",
+  apiKey: "REDACTED",
+  authDomain: "REDACTED",
+  projectId: "REDACTED",
+  storageBucket: "REDACTED",
+  messagingSenderId: "REDACTED",
+  appId: "REDACTED",
+  measurementId: "REDACTED",
 };
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
